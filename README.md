@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SyedHamzaHussain-coder
 - 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning Web Developement
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me https://www.linkedin.com/in/syed-hamza-hussain-9034871b3/
+- 📫 How to reach me (https://www.linkedin.com/in/syedhamza-h/)
 
 <!---
 SyedHamzaHussain-coder/SyedHamzaHussain-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
