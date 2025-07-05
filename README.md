@@ -1,13 +1,9 @@
 <!-- Jarvis Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=🧠+Agentic+AI+Developer;Building+Autonomous+Systems+and+LLM+Toolchains;AGI+in+Progress...;Jarvis+Mode%3A+Online" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%F0%9F%A7%A0+Agentic+AI+Developer;Building+Autonomous+Systems+and+LLM+Toolchains;AGI+in+Progress..." alt="Typing SVG" /></a></p>
 
 <h1 align="center">Syed Hamza Hussain</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1300&color=00F7FF&center=true&vCenter=true&width=600&lines=Build+systems+that+think.;Train%2C+don’t+just+code.;Create+what+doesn’t+exist+—+yet." alt="Animated Manifesto" />
-</p>
-
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Build+systems+that+think.;Train%2C+don%E2%80%99t+just+code.;Create+what+doesn%E2%80%99t+exist+%E2%80%94+yet." alt="Typing SVG" /></a></p>
 <p align="center">AI builder | Agent Architect | Autonomous Workflow Enthusiast</p>
 
 ---
@@ -74,9 +70,10 @@
 ---
 
 ### 🧠 Personal Manifesto
-Build systems that think, not just tools that respond.
-Follow no hype. Create your own wave.
-The future will not be coded. It will be trained.
+
+> 💡 Build systems that think, not just tools that respond.  
+> 🌊 Follow no hype. Create your own wave.  
+> 🧬 The future will not be coded. It will be trained.
 
 ---
 
